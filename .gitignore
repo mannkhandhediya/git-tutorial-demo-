@@ -1,0 +1,6 @@
+error.log
+tensorflow
+*.log
+dir/imp
+
+db.accdb
